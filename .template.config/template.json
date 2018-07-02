@@ -1,0 +1,8 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Kristian Brimble",
+    "classifications": [ "Bot", "Bot Framework", "v4 Bot", "Bot Builder", "Bot Builder v4" ],
+    "identity": "v4-preview bot",
+    "name": "Bot Builder v4 Preview",
+    "shortName": "v4bot-pre"
+}
