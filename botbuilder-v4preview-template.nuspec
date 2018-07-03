@@ -2,11 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>BotBuilder.V4PreviewTemplate.CSharp</id>
+    <title>BotBuilder v4 Preview dotnet new template</title>
     <version>1.0.0</version>
     <description>
       Creates a starter solution for building bots with the Bot Builder v4 preview
     </description>
     <authors>Kristian Brimble</authors>
+    <projectUrl>https://github.com/kbrimble/botbuilder-v4preview-template</projectUrl>
     <packageTypes>
       <packageType name="Template" />
     </packageTypes>
