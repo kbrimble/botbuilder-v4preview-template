@@ -3,7 +3,7 @@
   <metadata>
     <id>BotBuilder.V4PreviewTemplate.CSharp</id>
     <title>BotBuilder v4 Preview dotnet new template</title>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <description>
       Creates a starter solution for building bots with the Bot Builder v4 preview
     </description>
